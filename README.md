@@ -11,4 +11,4 @@
 
 ## Главная активность
 
-![image](https://github.com/Sparou/HSE-ANDROID-LAB2/assets/106825713/3f52f874-6269-4d12-bc71-ecaaf4f2af7e)
+![image](https://github.com/Sparou/HSE-ANDROID-LAB3/blob/master/screenshots/mainActivity.jpg?raw=true)
